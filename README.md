@@ -13,7 +13,7 @@ https://data.worldbank.org/
 ## Files
 
 - `report.pbix`: Power BI Desktop file.
-- `index.html`: Embedded version of the interactive report (if applicable).
+- `country_profile_dashboard.html`: Embedded version of the interactive report (if applicable).
 
 ## Viewing the Dashboard
 
